@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 - I'm currently working as an IT intern
 - I'm currently learning Python, React, and C#
+- I'm considering picking up PHP and C++
 - Yeah that's it right now

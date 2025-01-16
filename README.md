@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello!!!
 
 <!--
 **nousernamealsocanahbro/nousernamealsocanahbro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm currently working as an IT intern
+- I'm currently learning Python, React, and C#
+- Yeah that's it right now
